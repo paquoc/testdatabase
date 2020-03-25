@@ -1,6 +1,12 @@
 {
-	"posts": {
-		"id": 1,
-		"title": "Test title"
-	}
+	"posts": [
+		{
+			"id": 1,
+			"title": "Test title"
+		},
+		{
+			"id": 2,
+			"title": "Test title 2"
+		}
+	]
 }
