@@ -8,5 +8,34 @@
 			"id": 2,
 			"title": "Test title 2"
 		}
+	],
+	"DataSearchResult": [
+		{
+			"id": 1,
+			"name": "1.Can ho cao cap quan 7, Can ho cao cap quan 7, cawn ho cao cap quan 7, dsa",
+			"price": "3.2 ty",
+			"area": "20 m2",
+			"address": "793 Tran Xuan Soan, Q7",
+			"datePosted": "10.12.2019",
+			"url": "https://via.placeholder.com/600/92c952"
+		},
+		{
+			"id": 2,
+			"name": "2. Can ho cao cap quan 7",
+			"price": "3.2 ty",
+			"area": "20 m2",
+			"address": "793/12 duong Tran Xuan Soan, P. Tan Hung, Quan 7, TP.HCM",
+			"datePosted": "10.12.2019",
+			"url": "https://via.placeholder.com/600/771796"
+		},
+		{
+			"id": 3,
+			"name": "3. Can ho cao cap quan 7",
+			"price": "3.2 ty",
+			"area": "20 m2",
+			"address": "793/12 duong Tran Xuan Soan, P. Tan Hung, Quan 7, TP.HCM",
+			"datePosted": "10.12.2019",
+			"url": "https://via.placeholder.com/600/24f355"
+		}
 	]
 }
