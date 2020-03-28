@@ -12,30 +12,84 @@
 	"DataSearchResult": [
 		{
 			"id": 1,
-			"name": "1.Can ho cao cap quan 7, Can ho cao cap quan 7, cawn ho cao cap quan 7, dsa",
-			"price": "3.2 ty",
+			"name": "Can ho cao cap quan 1",
+			"price": "3 ty",
 			"area": "20 m2",
 			"address": "793 Tran Xuan Soan, Q7",
 			"datePosted": "10.12.2019",
-			"url": "https://via.placeholder.com/600/92c952"
+			"url": "https://via.placeholder.com/600/92c952",
+			"coordinate": {
+				"latitude": 45.524548,
+				"longitude": -122.6749817
+			}
 		},
 		{
 			"id": 2,
-			"name": "2. Can ho cao cap quan 7",
-			"price": "3.2 ty",
+			"name": "Chung cư quan 2",
+			"price": "2 ty",
 			"area": "20 m2",
 			"address": "793/12 duong Tran Xuan Soan, P. Tan Hung, Quan 7, TP.HCM",
 			"datePosted": "10.12.2019",
-			"url": "https://via.placeholder.com/600/771796"
+			"url": "https://via.placeholder.com/600/d32776",
+			"coordinate": {
+				"latitude": 45.5230786,
+				"longitude": -122.6701034
+			}
 		},
 		{
 			"id": 3,
-			"name": "3. Can ho cao cap quan 7",
-			"price": "3.2 ty",
+			"name": "Nhà ở quận 3",
+			"price": "1 ty",
 			"area": "20 m2",
 			"address": "793/12 duong Tran Xuan Soan, P. Tan Hung, Quan 7, TP.HCM",
 			"datePosted": "10.12.2019",
-			"url": "https://via.placeholder.com/600/24f355"
+			"url": "https://via.placeholder.com/600/771796",
+			"coordinate": {
+				"latitude": 45.524698,
+				"longitude": -122.6655507
+			}
+		}
+	],
+	
+	"Article": [
+		{
+			"id": 1,
+			"image": [
+				"https://via.placeholder.com/600/92c952",
+				"https://via.placeholder.com/600/771796",
+				"https://via.placeholder.com/600/d32776"
+			],
+			"name": "Can ho cao cap quan 1",
+			"coordinate": {
+				"latitude": 45.524548,
+				"longitude": -122.6749817
+			}			
+		},
+		{
+			"id": 2,
+			"image": [
+				"https://via.placeholder.com/600/d32776",
+				"https://via.placeholder.com/600/92c952",
+				"https://via.placeholder.com/600/771796"
+			],
+			"name": "Chung cư quan 2",
+			"coordinate": {
+				"latitude": 45.524548,
+				"longitude": -122.6749817
+			}			
+		},
+		{
+			"id": 3,
+			"image": [
+				"https://via.placeholder.com/600/771796",
+				"https://via.placeholder.com/600/92c952",
+				"https://via.placeholder.com/600/d32776"
+			],
+			"name": "Nhà ở quận 3",
+			"coordinate": {
+				"latitude": 45.524548,
+				"longitude": -122.6749817
+			}			
 		}
 	]
 }
