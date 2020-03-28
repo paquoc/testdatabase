@@ -74,8 +74,8 @@
 			],
 			"name": "Chung cư quan 2",
 			"coordinate": {
-				"latitude": 45.524548,
-				"longitude": -122.6749817
+				"latitude": 45.5230786,
+				"longitude": -122.6701034
 			}			
 		},
 		{
@@ -87,8 +87,8 @@
 			],
 			"name": "Nhà ở quận 3",
 			"coordinate": {
-				"latitude": 45.524548,
-				"longitude": -122.6749817
+				"latitude": 45.524698,
+				"longitude": -122.6655507
 			}			
 		}
 	]
