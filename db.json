@@ -12,45 +12,44 @@
 	"DataSearchResult": [
 		{
 			"id": 1,
-			"name": "Can ho cao cap quan 1",
+			"name": "Adi Lucky Home",
+			"coordinate": {
+				"latitude": 10.730208396912,
+				"longitude": 106.61042785644
+			},
 			"price": "3 ty",
 			"area": "20 m2",
 			"address": "793 Tran Xuan Soan, Q7",
 			"datePosted": "10.12.2019",
-			"url": "https://via.placeholder.com/600/92c952",
-			"coordinate": {
-				"latitude": 45.524548,
-				"longitude": -122.6749817
-			}
+			"url": "https://via.placeholder.com/600/92c952"
 		},
 		{
 			"id": 2,
-			"name": "Chung cư quan 2",
+			"name": "An Lạc Plaza",
+			"coordinate": {
+				"latitude": 10.751955032349,
+				"longitude": 106.61994171143
+			},
 			"price": "2 ty",
 			"area": "20 m2",
 			"address": "793/12 duong Tran Xuan Soan, P. Tan Hung, Quan 7, TP.HCM",
 			"datePosted": "10.12.2019",
-			"url": "https://via.placeholder.com/600/d32776",
-			"coordinate": {
-				"latitude": 45.5230786,
-				"longitude": -122.6701034
-			}
+			"url": "https://via.placeholder.com/600/d32776"
 		},
 		{
 			"id": 3,
-			"name": "Nhà ở quận 3",
+			"name": "Angia Star",
+			"coordinate": {
+				"latitude": 10.763066291809,
+				"longitude": 106.59183502197
+			},
 			"price": "1 ty",
 			"area": "20 m2",
 			"address": "793/12 duong Tran Xuan Soan, P. Tan Hung, Quan 7, TP.HCM",
 			"datePosted": "10.12.2019",
-			"url": "https://via.placeholder.com/600/771796",
-			"coordinate": {
-				"latitude": 45.524698,
-				"longitude": -122.6655507
-			}
+			"url": "https://via.placeholder.com/600/771796"
 		}
 	],
-	
 	"Article": [
 		{
 			"id": 1,
@@ -59,11 +58,11 @@
 				"https://via.placeholder.com/600/771796",
 				"https://via.placeholder.com/600/d32776"
 			],
-			"name": "Can ho cao cap quan 1",
+			"name": "Adi Lucky Home",
 			"coordinate": {
-				"latitude": 45.524548,
-				"longitude": -122.6749817
-			}			
+				"latitude": 10.730208396912,
+				"longitude": 106.61042785644
+			}
 		},
 		{
 			"id": 2,
@@ -72,11 +71,11 @@
 				"https://via.placeholder.com/600/92c952",
 				"https://via.placeholder.com/600/771796"
 			],
-			"name": "Chung cư quan 2",
+			"name": "An Lạc Plaza",
 			"coordinate": {
-				"latitude": 45.5230786,
-				"longitude": -122.6701034
-			}			
+				"latitude": 10.751955032349,
+				"longitude": 106.61994171143
+			}
 		},
 		{
 			"id": 3,
@@ -89,7 +88,234 @@
 			"coordinate": {
 				"latitude": 45.524698,
 				"longitude": -122.6655507
-			}			
+			}
+		}
+	],
+	"LocalData": [
+		{
+			"id": "1",
+			"code": "SG",
+			"name": "Hồ Chí Minh",
+			"districts": [
+				{
+					"id": "1",
+					"name": "Bình Chánh",
+					"wards": [
+						{
+							"id": "1",
+							"name": "An Phú Tây",
+							"prefix": "Xã"
+						},
+						{
+							"id": "2",
+							"name": "Bình Chánh",
+							"prefix": "Xã"
+						},
+						{
+							"id": "3",
+							"name": "Bình Hưng",
+							"prefix": "Xã"
+						},
+						{
+							"id": "4",
+							"name": "Bình Lợi",
+							"prefix": "Xã"
+						},
+						{
+							"id": "5",
+							"name": "Đa Phước",
+							"prefix": "Xã"
+						},
+						{
+							"id": "6",
+							"name": "Hưng Long",
+							"prefix": "Xã"
+						},
+						{
+							"id": "7",
+							"name": "Lê Minh Xuân",
+							"prefix": "Xã"
+						},
+						{
+							"id": "8",
+							"name": "Phạm Văn Hai",
+							"prefix": "Xã"
+						},
+						{
+							"id": "9",
+							"name": "Phong Phú",
+							"prefix": "Xã"
+						}
+					]
+				},
+				{
+					"id": "2",
+					"name": "Bình Tân",
+					"wards": [
+						{
+							"id": "17",
+							"name": "An Lạc",
+							"prefix": "Phường"
+						},
+						{
+							"id": "18",
+							"name": "An Lạc A",
+							"prefix": "Phường"
+						},
+						{
+							"id": "19",
+							"name": "Bình Hưng Hòa",
+							"prefix": "Phường"
+						},
+						{
+							"id": "20",
+							"name": "Bình Hưng Hòa A",
+							"prefix": "Phường"
+						},
+						{
+							"id": "21",
+							"name": "Bình Hưng Hòa B",
+							"prefix": "Phường"
+						}
+					]
+				},
+				{
+					"id": "3",
+					"name": "Bình Thạnh",
+					"wards": [
+						{
+							"id": "27",
+							"name": "1",
+							"prefix": "Phường"
+						},
+						{
+							"id": "28",
+							"name": "11",
+							"prefix": "Phường"
+						},
+						{
+							"id": "29",
+							"name": "12",
+							"prefix": "Phường"
+						},
+						{
+							"id": "30",
+							"name": "13",
+							"prefix": "Phường"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "2",
+			"code": "HN",
+			"name": "Hà Nội",
+			"districts": [
+				{
+					"id": "25",
+					"name": "Ba Đình",
+					"wards": [
+						{
+							"id": "327",
+							"name": "Cống Vị",
+							"prefix": "Phường"
+						},
+						{
+							"id": "328",
+							"name": "Điện Biên",
+							"prefix": "Phường"
+						},
+						{
+							"id": "329",
+							"name": "Đội Cấn",
+							"prefix": "Phường"
+						},
+						{
+							"id": "330",
+							"name": "Giảng Võ",
+							"prefix": "Phường"
+						},
+						{
+							"id": "331",
+							"name": "Kim Mã",
+							"prefix": "Phường"
+						},
+						{
+							"id": "332",
+							"name": "Liễu Giai",
+							"prefix": "Phường"
+						},
+						{
+							"id": "333",
+							"name": "Ngọc Hà",
+							"prefix": "Phường"
+						}
+					]
+				},
+				{
+					"id": "26",
+					"name": "Ba Vì",
+					"wards": [
+						{
+							"id": "341",
+							"name": "Ba Trại",
+							"prefix": "Xã"
+						},
+						{
+							"id": "342",
+							"name": "Ba Vì",
+							"prefix": "Xã"
+						},
+						{
+							"id": "343",
+							"name": "Cẩm Lĩnh",
+							"prefix": "Xã"
+						},
+						{
+							"id": "344",
+							"name": "Cam Thượng",
+							"prefix": "Xã"
+						},
+						{
+							"id": "345",
+							"name": "Châu Sơn",
+							"prefix": "Xã"
+						},
+						{
+							"id": "346",
+							"name": "Chu Minh",
+							"prefix": "Xã"
+						}
+					]
+				},
+				{
+					"id": "27",
+					"name": "Bắc Từ Liêm",
+					"wards": [
+						{
+							"id": "372",
+							"name": "Cổ Nhuế 1",
+							"prefix": "Phường"
+						},
+						{
+							"id": "373",
+							"name": "Cổ Nhuế 2",
+							"prefix": "Phường"
+						},
+						{
+							"id": "374",
+							"name": "Đông Ngạc",
+							"prefix": "Xã"
+						},
+						{
+							"id": "375",
+							"name": "Đức Thắng",
+							"prefix": "Phường"
+						}
+					]
+				}
+			]
 		}
 	]
 }
