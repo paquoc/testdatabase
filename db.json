@@ -21,7 +21,7 @@
 			"area": "20 m2",
 			"address": "793 Trần Xuân Soạn, Q7",
 			"datePosted": "10/12/2019",
-			"url": "https://via.placeholder.com/600/92c952"
+			"url": "https://via.placeholder.com/600/92c952/FFFFFF/?text=Estate+1"
 		},
 		{
 			"id": 2,
@@ -34,7 +34,7 @@
 			"area": "20 m2",
 			"address": "793/12 đường Trần Xuân Soạn, P.Tân Hưng, Quận 7, TP.HCM",
 			"datePosted": "20/11/2018",
-			"url": "https://via.placeholder.com/600/d32776"
+			"url": "https://via.placeholder.com/600/d32776/FFFFFF/?text=Estate+2"
 		},
 		{
 			"id": 3,
@@ -47,16 +47,16 @@
 			"area": "20 m2",
 			"address": "217 Hồng Bàng, P.11, Quận 5",
 			"datePosted": "11/05/2013",
-			"url": "https://via.placeholder.com/600/771796"
+			"url": "https://via.placeholder.com/600/771796/FFFFFF/?text=Estate+3"
 		}
 	],
 	"Article": [
 		{
 			"id": 1,
 			"image": [
-				"https://via.placeholder.com/600/92c952",
-				"https://via.placeholder.com/600/771796",
-				"https://via.placeholder.com/600/d32776"
+				"https://via.placeholder.com/600/92c952/FFFFFF/?text=Image+1",
+				"https://via.placeholder.com/600/92c952/FFFFFF/?text=Image+2",
+				"https://via.placeholder.com/600/92c952/FFFFFF/?text=Image+3"
 			],
 			"name": "Adi Lucky Home",
 			"coordinate": {
@@ -67,9 +67,9 @@
 		{
 			"id": 2,
 			"image": [
-				"https://via.placeholder.com/600/d32776",
-				"https://via.placeholder.com/600/92c952",
-				"https://via.placeholder.com/600/771796"
+				"https://via.placeholder.com/600/d32776/FFFFFF/?text=Image+1",
+				"https://via.placeholder.com/600/d32776/FFFFFF/?text=Image+2",
+				"https://via.placeholder.com/600/d32776/FFFFFF/?text=Image+3"
 			],
 			"name": "An Lạc Plaza",
 			"coordinate": {
@@ -80,9 +80,9 @@
 		{
 			"id": 3,
 			"image": [
-				"https://via.placeholder.com/600/771796",
-				"https://via.placeholder.com/600/92c952",
-				"https://via.placeholder.com/600/d32776"
+				"https://via.placeholder.com/600/771796/FFFFFF/?text=Image+1",
+				"https://via.placeholder.com/600/771796/FFFFFF/?text=Image+2",
+				"https://via.placeholder.com/600/771796/FFFFFF/?text=Image+3"
 			],
 			"name": "Nhà ở quận 3",
 			"coordinate": {
