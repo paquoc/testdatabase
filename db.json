@@ -48,6 +48,136 @@
 			"address": "217 Hồng Bàng, P.11, Quận 5",
 			"datePosted": "11/05/2013",
 			"url": "https://via.placeholder.com/600/771796/FFFFFF/?text=Estate+3"
+		},
+		{
+			"id": 4,
+			"name": "Estate 4",
+			"coordinate": {
+				"latitude": 10.763066291809,
+				"longitude": 106.59183502197
+			},
+			"price": "1 tỷ",
+			"area": "20 m2",
+			"address": "217 Hồng Bàng, P.11, Quận 5",
+			"datePosted": "11/05/2013",
+			"url": "https://via.placeholder.com/600/771796/FFFFFF/?text=Estate+4"
+		},
+		{
+			"id": 5,
+			"name": "Estate 5",
+			"coordinate": {
+				"latitude": 10.763066291809,
+				"longitude": 106.59183502197
+			},
+			"price": "1 tỷ",
+			"area": "20 m2",
+			"address": "217 Hồng Bàng, P.11, Quận 5",
+			"datePosted": "11/05/2013",
+			"url": "https://via.placeholder.com/600/771796/FFFFFF/?text=Estate+5"
+		},
+		{
+			"id": 6,
+			"name": "Estate 6",
+			"coordinate": {
+				"latitude": 10.763066291809,
+				"longitude": 106.59183502197
+			},
+			"price": "1 tỷ",
+			"area": "20 m2",
+			"address": "217 Hồng Bàng, P.11, Quận 5",
+			"datePosted": "11/05/2013",
+			"url": "https://via.placeholder.com/600/771796/FFFFFF/?text=Estate+6"
+		},
+		{
+			"id": 7,
+			"name": "Estate 7",
+			"coordinate": {
+				"latitude": 10.763066291809,
+				"longitude": 106.59183502197
+			},
+			"price": "1 tỷ",
+			"area": "20 m2",
+			"address": "217 Hồng Bàng, P.11, Quận 5",
+			"datePosted": "11/05/2013",
+			"url": "https://via.placeholder.com/600/771796/FFFFFF/?text=Estate+7"
+		},
+		{
+			"id": 8,
+			"name": "Estate 8",
+			"coordinate": {
+				"latitude": 10.763066291809,
+				"longitude": 106.59183502197
+			},
+			"price": "1 tỷ",
+			"area": "20 m2",
+			"address": "217 Hồng Bàng, P.11, Quận 5",
+			"datePosted": "11/05/2013",
+			"url": "https://via.placeholder.com/600/771796/FFFFFF/?text=Estate+8"
+		},
+		{
+			"id": 9,
+			"name": "Estate 9",
+			"coordinate": {
+				"latitude": 10.763066291809,
+				"longitude": 106.59183502197
+			},
+			"price": "1 tỷ",
+			"area": "20 m2",
+			"address": "217 Hồng Bàng, P.11, Quận 5",
+			"datePosted": "11/05/2013",
+			"url": "https://via.placeholder.com/600/771796/FFFFFF/?text=Estate+9"
+		},
+		{
+			"id": 10,
+			"name": "Estate 10",
+			"coordinate": {
+				"latitude": 10.763066291809,
+				"longitude": 106.59183502197
+			},
+			"price": "1 tỷ",
+			"area": "20 m2",
+			"address": "217 Hồng Bàng, P.11, Quận 5",
+			"datePosted": "11/05/2013",
+			"url": "https://via.placeholder.com/600/771796/FFFFFF/?text=Estate+10"
+		},
+		{
+			"id": 11,
+			"name": "Estate 11",
+			"coordinate": {
+				"latitude": 10.763066291809,
+				"longitude": 106.59183502197
+			},
+			"price": "1 tỷ",
+			"area": "20 m2",
+			"address": "217 Hồng Bàng, P.11, Quận 5",
+			"datePosted": "11/05/2013",
+			"url": "https://via.placeholder.com/600/771796/FFFFFF/?text=Estate+11"
+		},
+		{
+			"id": 12,
+			"name": "Estate 12",
+			"coordinate": {
+				"latitude": 10.763066291809,
+				"longitude": 106.59183502197
+			},
+			"price": "1 tỷ",
+			"area": "20 m2",
+			"address": "217 Hồng Bàng, P.11, Quận 5",
+			"datePosted": "11/05/2013",
+			"url": "https://via.placeholder.com/600/771796/FFFFFF/?text=Estate+12"
+		},
+		{
+			"id": 13,
+			"name": "Estate 13",
+			"coordinate": {
+				"latitude": 10.763066291809,
+				"longitude": 106.59183502197
+			},
+			"price": "1 tỷ",
+			"area": "20 m2",
+			"address": "217 Hồng Bàng, P.11, Quận 5",
+			"datePosted": "11/05/2013",
+			"url": "https://via.placeholder.com/600/771796/FFFFFF/?text=Estate+13"
 		}
 	],
 	"Article": [
